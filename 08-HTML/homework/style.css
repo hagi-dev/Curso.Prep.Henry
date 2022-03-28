@@ -1,0 +1,28 @@
+/* 
+        class  usa  .
+        id   usa    #
+        tag         h1 img  span
+        */
+        .divClass h1{
+            color: red;
+        }
+
+        .h1{
+            color: skyblue;
+        }
+
+        #thirdDiv{
+            width:500px;
+            height: 600px;
+            background: blue;
+            padding: 50px;
+            border: 10px solid skyblue;
+        }
+
+        img{
+            width:400px
+        }
+        #spanId{
+            font-size:18px;
+            margin: 50px;
+        }
